@@ -1,5 +1,7 @@
 ### Hi there, I'm Nathanael (lennywizard)
-
+### 
+- 🔭 I’m currently working on working on some web development projects for clients(open to more experience)
+- 🌱 I’m currently learning Python, Javascript 
 <!--
 **Chidi2K18/Chidi2K18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
