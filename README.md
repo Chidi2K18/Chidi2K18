@@ -1,4 +1,4 @@
-### Hi there, I'm Nathanael (lennywizard)
+### Hi there, I'm Nathanael
 ### 
 - 🔭 I’m currently working on working on some web development projects for clients(open to more experience)
 - 🌱 I’m currently learning Python, Javascript 
